@@ -12,7 +12,7 @@ const Header = () => {
                 </p>
                 <div className='flex flex-col md:flex-row items-center gap-3 text-white text-sm font-light animate-slide-up'>
                     <img className='w-28' src={assets.group_profiles} alt="" />
-                    <p className='text-white/90'>Simply browse through our extensive list of trusted doctors, <br className='hidden sm:block' /> schedule your appointment hassle-free.</p>
+                    <p className='text-white/90'>Check out our curated selection of reliable doctors, <br className='hidden sm:block' />  and schedule your visit in seconds.</p>
                 </div>
                 <a href='#speciality' className='flex items-center gap-2 bg-white px-8 py-4 rounded-full text-primary text-sm font-semibold m-auto md:m-0 hover:shadow-lg hover:scale-105 transition-all duration-300'>
                     Book appointment <img className='w-3' src={assets.arrow_icon} alt="" />

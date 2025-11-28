@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
           <p className='w-full md:w-2/3 text-text-medium leading-6'>
-            Your trusted partner in healthcare. We connect you with the best medical professionals to ensure you receive quality care when you need it most.
+            A smarter way to access quality healthcare—instantly connecting you with trusted medical specialists when it matters most.
           </p>
         </div>
 
@@ -26,8 +26,8 @@ const Footer = () => {
         <div>
           <p className='text-xl font-semibold mb-5 text-text-dark'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-text-medium'>
-            <li className='hover:text-primary cursor-pointer transition-colors'>+1-212-456-7890</li>
-            <li className='hover:text-primary cursor-pointer transition-colors'>contact@prescripto.com</li>
+            <li className='hover:text-primary cursor-pointer transition-colors'>+1 (212) 456-7890</li>
+            <li className='hover:text-primary cursor-pointer transition-colors'>contact@MediSync.com</li>
           </ul>
         </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
 
       <div>
         <hr className='border-gray-300' />
-        <p className='py-5 text-sm text-center text-text-medium'>Copyright 2024 @ Prescripto.com - All Rights Reserved.</p>
+        <p className='py-5 text-sm text-center text-text-medium'>Copyright 2024 @ MediSync.com - All Rights Reserved.</p>
       </div>
 
     </div>
